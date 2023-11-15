@@ -27,6 +27,3 @@
   <a href="https://www.linkedin.com/in/matheus-oliveira-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:matheuseu41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-```
-
-Este código HTML deve funcionar corretamente para exibir as estatísticas do GitHub, as tecnologias utilizadas e os links de contato. Lembre-se de substituir as imagens e os links pelos seus próprios.
